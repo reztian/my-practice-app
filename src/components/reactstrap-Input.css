@@ -1,0 +1,12 @@
+.Select-value{
+    border: 1px solid darkgray !important;
+}
+
+.Select-value-icon {
+    display: none !important;
+}
+
+.Select-value-label {
+    background-color: white;
+    color: #111;
+}
